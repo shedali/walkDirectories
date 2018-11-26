@@ -1,0 +1,38 @@
+{
+  "name": "compile-markdown-directory",
+  "version": "1.0.0",
+  "description": "this is a test to see if i can walk a nested directory tree, printing contents and the depth of traversal.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "markdir": "markdir.js",
+    "marktoc": "toc.js",
+    "opmlexport": "convert.js",
+    "pandoc-graphviz": "dotfilter.js"
+  },
+  "preferGlobal": true,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.2",
+    "child_process": "^1.0.2",
+    "get-stdin": "^6.0.0",
+    "klaw-sync": "^6.0.0",
+    "markdown-toc": "^1.2.0",
+    "mermaid": "^8.0.0-rc.8",
+    "mermaid.cli": "^0.5.1",
+    "node-pandoc": "^0.3.0",
+    "pandoc-filter": "^1.0.0",
+    "ramda": "^0.25.0",
+    "remark": "^10.0.0",
+    "remark-graphviz": "^0.2.2",
+    "remarkable": "^1.7.1",
+    "to-vfile": "^5.0.2",
+    "xml-js": "^1.6.8"
+  }
+}

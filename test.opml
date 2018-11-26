@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title></title>
+    <flavor>dynalist</flavor>
+    <source>https://dynalist.io</source>
+    <ownerName>Franz S</ownerName>
+    <ownerEmail>shedali@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Dynalist">
+      <outline text="Import workflow outline to Dynalist #web "/>
+      <outline text="Drafts to Dynalist"/>
+      <outline text="understand latex support https://github.com/Khan/KaTeX/wiki/Function-Support-in-KaTeX"/>
+      <outline text=""/>
+      <outline text="[export current view to opml ](https://dynalist.io/d/2QXG1xPPqkDNMuenFl2UxfXn#z=gvNP6DcOh9LeVpRe05GUYkNO) "/>
+    </outline>
+  </body>
+</opml>
